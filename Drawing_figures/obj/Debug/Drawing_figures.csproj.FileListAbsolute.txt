@@ -1,0 +1,10 @@
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.csprojAssemblyReference.cache
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.Form1.resources
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.Properties.Resources.resources
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.csproj.GenerateResource.cache
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.csproj.CoreCompileInputs.cache
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\bin\Debug\Drawing_figures.exe.config
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\bin\Debug\Drawing_figures.exe
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\bin\Debug\Drawing_figures.pdb
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.exe
+C:\Users\SSS\source\repos\Drawing_figures\Drawing_figures\obj\Debug\Drawing_figures.pdb
